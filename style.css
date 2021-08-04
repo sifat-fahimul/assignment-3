@@ -1,0 +1,82 @@
+/* root */
+.primary-text-color{
+    color: #E76F51;
+}
+/* header section */
+.top-header-bg{
+    background-color: #264653;
+    ;
+}
+.banner-img img{
+    width: 100%;
+}
+.honda-btn {
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    background-color: #E76F51;
+    
+}
+/* feature section */
+.feature-img{
+    width: 90%;
+}
+.gray-effect{
+    filter: grayscale(1);
+}
+/* clients section */
+.clients-card{
+    text-align: center;
+    line-height: 30px;
+    margin: 30px;
+    padding: 40px 35px;
+    border: 1px solid #DEDEDE;
+    border-radius: 5px;
+}
+.clients-card img{
+    width: 150px;
+}
+.star-color{
+    color: #E76F51;
+}
+/* faq section */
+.faq-img{
+    padding: 15px;
+}
+.faq-img img{
+    width: 100%;
+}
+.accordion-center{
+    margin-top: 100px;
+}
+.accordion-border{
+    border: 1px solid gray !important;
+    margin: 20px;
+}
+
+.footer-text{
+    background-color: #0B0D17;
+    padding: 40px;
+}
+/* Extra section css */
+.desert-img{
+    padding: 20px;
+    height: 400px;
+}
+.desert-img img{
+    width: 100%;
+    
+
+}
+.feature-bike img{
+    width: 100%;
+    height: 172px;
+}
+.btn-kalo{
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    background-color: #0B0D17;
+}
